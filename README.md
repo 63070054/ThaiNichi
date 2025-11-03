@@ -12,8 +12,7 @@ Follow the steps below carefully — everything you need is right here 💪
 Make sure you have:
 - A stable internet connection 🌐  
 - At least **2 GB free space** on your computer 💾  
-- A GitHub account (you’ll create one below if you don’t have it yet)  
-- Basic English typing ability — no coding experience required! 🙌  
+- A Google account (you’ll use this to sign up for GitHub and Lovable)  
 
 ---
 
@@ -111,13 +110,13 @@ Press **Windows Key + R**, type `msinfo32`, then press **Enter**.
 
 GitHub is where you’ll store and share your code.
 
-👉 **Sign up here:** [https://github.com/signup](https://github.com/signup)
+👉 **Sign up with your Google account here:** [https://github.com/signup](https://github.com/signup)
 
 **Example:**  
-Use your real name and school email if possible.  
-Username idea: `janedoe-portfolio`  
-Once signed up, visit your profile at:  
-`https://github.com/<your-username>`
+> Use your Google account to quickly sign up without filling all details manually.  
+> Once signed up, visit your profile at:  
+> `https://github.com/<your-username>`  
+> Example username: `janedoe-portfolio`
 
 ---
 
@@ -137,23 +136,41 @@ Allow the permissions when asked (this lets Lovable save your website to your Gi
 
 On Lovable, start a new project and describe yourself.
 
-🪄 **Fill in the details:**
-- I am **[role]**, my name is **[first name] [last name]**, I study at **[university name]**.  
-- Introduction: **[describe yourself shortly]**  
-- I want my website to have a **[theme]** theme with animation.
+🪄 **Fill in the details step by step:**
 
-Click **Generate** and let the magic happen! ✨
+**Step 1:** **I am [role]**  
+> Example: `a web developer`  
+> Explain who you are professionally or your main role.
+
+**Step 2:** **My name is [first name] [last name]**  
+> Example: `Jane Doe`  
+> Introduce yourself to visitors.
+
+**Step 3:** **I study at [university name]**  
+> Example: `Chulalongkorn University`  
+> Mention your current school or university.
+
+**Step 4:** **Introduction: [describe yourself shortly]**  
+> Example: `I enjoy building interactive web applications and learning new AI tools.`  
+> Write a brief introduction so visitors can quickly understand you.
+
+**Step 5:** **I want my website to have a [theme] theme with animation**  
+> Example: `minimalist tech`  
+> Choose a theme that represents your style and adds animation.
 
 ---
 
 ## 🚀 Step 6: Publish Your Website
 
-After previewing your design, click **Publish** inside Lovable.
+After previewing your design, click the **Publish button**, located **at the top-right corner of the Lovable editor**.
 
 **Example:**  
-You’ll get a link like  
-`https://[yourname].lovable.app`  
-Share it with your friends or on social media!
+> You’ll get a link like  
+> `https://janedoe.lovable.app`  
+> Share it with your friends or on social media!
+
+**Explanation:**  
+Publishing makes your portfolio live on the internet.
 
 ---
 
@@ -162,8 +179,12 @@ Share it with your friends or on social media!
 Lovable automatically connects to your GitHub account.
 
 **Example:**  
-Once published, go to your GitHub profile — you’ll see a new repository like:  
-`https://github.com/[your-username]/[project-name]`
+> Once published, go to your GitHub profile — you’ll see a new repository like:  
+> `https://github.com/janedoe/janedoe-portfolio`  
+
+**Explanation:**  
+- The repository contains all your website code.  
+- You can download, edit, or version-control your portfolio anytime.
 
 ---
 
